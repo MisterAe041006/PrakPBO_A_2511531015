@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SelfCheck",
+      "request": "launch",
+      "mainClass": "selfcheck.SelfCheck",
+      "projectName": "Praktikum6_Abstraction_Siap_VSCode_2511531015_903151b"
+    },
+    {
+      "type": "java",
+      "name": "Jalankan L1-L5 - ShopApp",
+      "request": "launch",
+      "mainClass": "shop.app.ShopApp",
+      "projectName": "Praktikum6_Abstraction_Siap_VSCode_2511531015"
+    },
+    {
+      "type": "java",
+      "name": "Jalankan T1-T2 - TugasApp",
+      "request": "launch",
+      "mainClass": "shop.app.TugasApp",
+      "projectName": "Praktikum6_Abstraction_Siap_VSCode_2511531015"
+    },
+    {
+      "type": "java",
+      "name": "Jalankan Contoh T3 - BadShopRefactored",
+      "request": "launch",
+      "mainClass": "review.fixed.BadShopRefactored",
+      "projectName": "Praktikum6_Abstraction_Siap_VSCode_2511531015"
+    }
+  ]
+}
